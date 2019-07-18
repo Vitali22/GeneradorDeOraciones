@@ -111,7 +111,6 @@ include "conectador.php";
 
             mysqli_close($link);
 
-            //Un comentario
 
 ?>
 </h1>
