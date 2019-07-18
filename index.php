@@ -111,6 +111,8 @@ include "conectador.php";
 
             mysqli_close($link);
 
+            //Un comentario
+
 ?>
 </h1>
 <br>
@@ -119,7 +121,6 @@ include "conectador.php";
 <input type="button" value="Generar nueva oración" onclick="window.location='index.php'">
 
 </center>
-
 
 
 
